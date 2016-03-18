@@ -1,1 +1,3 @@
 Mars is a little smaller than Earth, but is red.
+Mars has two moons, which might be problematic for Wolfman. 
+It's also cold
